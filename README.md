@@ -10,4 +10,4 @@ Documentation TBD as always, but the general procedure is as follows:
 2) Insert these "effective" PSFs into dummy exposures and drizzle them with the 
    same drizzle parameters as those used to create the mosaic.
    
-3) For now, the PSFs are all evaluated on the fine 20 mas pixel scale.
+3) For now, the PSFs are all evaluated on the fine 40 mas pixel scale.
